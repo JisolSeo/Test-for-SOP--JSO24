@@ -1,0 +1,145 @@
+{
+  "spoRecordFilePath": "C:\\Users\\JSO24\\JSO24_Flashlight_tempo\\etc\\operations\\spoRecordFile.json",
+  "spoList": [
+    {
+      "spo": {
+        "creationDate": "2025-03-27T11:04:22.861504453Z",
+        "description": "UML to C",
+        "displayName": "UML to C",
+        "durationInS": 6,
+        "kind": "OPERATION",
+        "objectIds": [
+          "e4e04241-8500-4e1f-8154-14d391e18601:28cbcdad-312a-495d-9ce1-2d3c79f29110",
+          "2b7e931b-fa0e-40d8-9d11-84107ff1faf6"
+        ],
+        "parameters": [
+          {
+            "name": "output",
+            "value": "C_Configuration"
+          }
+        ],
+        "producedAssets": [
+          "c8e6f9d1-1cbd-4d32-b22e-d5c42910a1d2",
+          "45ab7d27-dedc-43be-8d76-4f8c8939b6ed",
+          "976625c5-43f9-4135-8aba-bb11bc7b14c4",
+          "b4a56100-00d4-44da-ba15-d4c184702081",
+          "8f442527-111d-4cd4-a7e0-d7c0a8b32461",
+          "9ca82c4c-0da6-4dea-81ef-3b8090e72586",
+          "2b63d739-936d-4ab8-8f34-4092b27065ff",
+          "2c7c0eaf-29ed-4fd4-96e6-7a3f620bc07c",
+          "597347ef-e580-48e9-8f3c-8dcd6a776803",
+          "adfd5f46-8373-4bf6-b976-d7ab1756c930",
+          "214bb950-db69-4d46-b065-3cf907276d10",
+          "0e5cbc57-6f94-42dc-955e-85c6c8a4b799",
+          "d55f621c-e0dd-45fc-ad28-b34a1c1229e1",
+          "9b352152-aa50-4820-9682-cf1d55266053",
+          "fecf2546-29eb-4d05-beae-9c467a6cb872",
+          "0c693005-872c-4149-ad38-70bd986fcbef",
+          "b68f5172-2faa-4b29-b15e-ff7c71d10432",
+          "6e9e9fd0-d85b-49ac-8ee3-0452a34d191c",
+          "0bed47d5-1653-4e50-97ee-b907e91acb10",
+          "71585dc4-f05f-432e-a70f-37b533754aea",
+          "ab3e1b82-1c68-4a52-8ff9-f17184de6302",
+          "e7114a30-ebdf-4a94-ad33-3f33281a0d93",
+          "cc2fd9b5-802a-4b90-8c43-72f625b7096b",
+          "39d5a9b4-0cc0-4f81-bd14-8e8b7fbd8d60",
+          "3e205244-effd-4e12-99bc-e8d0928d93ed",
+          "a5c07d22-d918-411f-b0a1-86352e701bc8",
+          "3f0c1e57-c23e-42ec-9602-082dbde4ace0",
+          "e96fdbbd-1417-4dfe-ae88-c59898a4c50d",
+          "2a772eea-e945-401f-9541-527d4ba0639e",
+          "1185f04d-6668-4b4c-81c7-b5e602846d2b",
+          "d47dd499-146c-4883-9d68-a23e0567289a",
+          "91a565b6-af29-4da8-a325-6aed7df7b91d",
+          "3050a2e1-ee3b-4b79-9bbe-1e97f9f46cf8",
+          "74442c42-03c3-45d0-ba8c-b31486fc4c35",
+          "2baaa0fa-3cb9-423d-ac44-517f7e8ec4cf",
+          "f4c2b7d1-6349-4c3b-bc87-ea9838d1f957",
+          "def92bf4-af9e-444e-b811-13afa96bbc5c",
+          "36ded37f-f9e5-4c4b-b0bb-640a99d1c36f",
+          "b0404871-6ed9-4465-9449-cdd733ecfb02",
+          "f51f8e3f-789f-4183-9a4f-bfadbd1ea3be",
+          "4423f772-e398-48ef-824c-ecd2da65abe7",
+          "f8c75467-1a04-4ef6-8f53-bbe3cc93c4fc",
+          "bf4e27de-8919-4716-8183-2fc3ce16fc75",
+          "15805091-08d0-4741-a499-02cc0ad00e56",
+          "17a296f0-ad74-4240-9b4d-3f68a3ba13a7",
+          "b888471e-ba53-486b-8a03-aa653b4bf5b8",
+          "f72cea92-e313-445b-a185-6b7b8d6ee35b",
+          "e7d8db1d-6b4c-4025-b855-c0a239176b5b",
+          "d909491e-cca3-4af0-90c3-76eaadf28e1b",
+          "4a596973-a33e-4db0-9437-f6a39d63e83a",
+          "d82b7449-62ec-43e1-ac36-d6bee92c54ee",
+          "33d93d9e-22b5-40c3-8235-1e97289fadb6",
+          "685e8989-9018-4b6b-bb50-12ad889b122e",
+          "199ab64f-3c64-4790-9785-f54bfe47f2ab",
+          "2232028a-7d1a-41c6-8901-a8f6338f2966",
+          "7daea9fb-ad2f-4967-a133-fb5b6f6929ee",
+          "d8c6b3f7-de45-4558-8c45-21c3aa082fa0",
+          "012516ee-a6ee-4637-814d-f40ae5287236",
+          "68fe8ef2-e067-4f22-8514-7b6915e8044f",
+          "709c8fe0-e690-4e6a-b193-63ef03646300",
+          "f4221f69-6ca4-49c3-aacf-52ccba909919",
+          "52d42824-af82-40fc-a368-ea855f0e84b5",
+          "3ea38149-d637-4c1f-9e51-28df51144d67",
+          "4d95888d-714f-47e8-8f22-18444833f136",
+          "37fe1937-78bf-483f-8363-60f0d48f3cc8",
+          "42b45182-3429-426f-93ea-59779563a126",
+          "d6bacb1f-94e4-41a0-b787-79592f11bfcf",
+          "0a087f14-f18c-40eb-a177-57637254919a",
+          "2c601f16-f33b-4f9b-a1f5-1248f1239f8b",
+          "1ad5623c-cced-4b86-b31e-f7a94d870652",
+          "6a9ba351-f435-47b1-a8e6-b9bfde29c4ef",
+          "f299dbf3-a7a5-4420-ad35-37782748b668",
+          "0777aeca-d4cd-49a6-af16-f2343611dacf"
+        ],
+        "progress": {
+          "maximum": 1,
+          "progress": 1
+        },
+        "properties": [
+          {
+            "key": "inputIds",
+            "value": [
+              "28cbcdad-312a-495d-9ce1-2d3c79f29110"
+            ]
+          },
+          {
+            "key": "configurationId",
+            "value": "a7a39acf-ae23-4e44-9215-cbe6ebeac92d"
+          },
+          {
+            "key": "jobId",
+            "value": "dd9a3906-5c8d-4e9d-82ca-05a8812196ce"
+          },
+          {
+            "key": "licensing_feature",
+            "value": "{\n  \"coefficient\" : 1,\n  \"feature\" : \"Component generation\"\n}"
+          }
+        ],
+        "returnCode": {
+          "message": "Generation is OK",
+          "value": 0
+        },
+        "returnedAssets": [
+          "f4221f69-6ca4-49c3-aacf-52ccba909919"
+        ],
+        "status": "SUCCEEDED",
+        "type": "ab97e9ee-6878-446b-886d-afc3f68fe8dd",
+        "uuid": "f214f7f5-d039-44f0-a27d-59fe0995932b"
+      },
+      "assetToLocalPaths": [
+        {
+          "assetId": "f4221f69-6ca4-49c3-aacf-52ccba909919",
+          "selectedSrcId": "28cbcdad-312a-495d-9ce1-2d3c79f29110",
+          "generatorConfigurationId": "a7a39acf-ae23-4e44-9215-cbe6ebeac92d",
+          "checksums": {
+            "a7a39acf-ae23-4e44-9215-cbe6ebeac92d": "-291e7e461101ca1c673f3d7ac38d2e46",
+            "28cbcdad-312a-495d-9ce1-2d3c79f29110": "-7fc34378bfc869e398909b7cac94df06"
+          },
+          "localPath": "C:\\Users\\JSO24\\JSO24_Flashlight_tempo\\C Configuration"
+        }
+      ]
+    }
+  ]
+}

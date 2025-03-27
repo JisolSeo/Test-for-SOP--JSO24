@@ -1,0 +1,70 @@
+2025-03-27 20:04:21,110 [pool-MagicDraw-thread-19:Generation Task] INFO  - Check if Workspace "JSO24_Flashlight_tempo_27-03-2025_20-04-21" already exists
+2025-03-27 20:04:21,857 [pool-MagicDraw-thread-19:Generation Task] INFO  - No workspace "JSO24_Flashlight_tempo_27-03-2025_20-04-21" exists
+2025-03-27 20:04:22,889 [pool-MagicDraw-thread-19:Generation Task] INFO  - Invoke Operation "UML to C"
+2025-03-27 20:04:30,224 [pool-MagicDraw-thread-19:Generation Task] INFO  - ***** Start Uml To C Generator v1.0.0 *****
+2025-03-27 20:04:31,283 [pool-MagicDraw-thread-19:Generation Task] INFO  - Check generator inputs...
+2025-03-27 20:04:31,286 [pool-MagicDraw-thread-19:Generation Task] INFO  - Check generator inputs... OK
+2025-03-27 20:04:31,286 [pool-MagicDraw-thread-19:Generation Task] INFO  - Read model(s) JSO24_Flashlight_tempo.mdxml... 
+2025-03-27 20:04:31,286 [pool-MagicDraw-thread-19:Generation Task] INFO  - Read model(s) JSO24_Flashlight_tempo.mdxml... OK
+2025-03-27 20:04:31,286 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Cse_cfg.h... CREATED
+2025-03-27 20:04:31,286 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Cse_Flashlight.c... CREATED
+2025-03-27 20:04:31,286 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Cse_Flashlight_hook.h... CREATED
+2025-03-27 20:04:31,286 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Cse_Flashlight_hook_usr.c... CREATED
+2025-03-27 20:04:31,286 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Cse_Flashlight_hook_cfg.h... CREATED
+2025-03-27 20:04:31,286 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Flashlight.h... CREATED
+2025-03-27 20:04:31,287 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Flashlight.c... CREATED
+2025-03-27 20:04:31,287 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Flashlight_internal_types.h... CREATED
+2025-03-27 20:04:31,287 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Timer_Timer.h... CREATED
+2025-03-27 20:04:31,287 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Timer_Timer.c... CREATED
+2025-03-27 20:04:31,287 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Timer_Timer_usr.c... CREATED
+2025-03-27 20:04:31,287 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Timer_Timer_Send_Tick.h... CREATED
+2025-03-27 20:04:31,287 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Timer_Timer_Send_Tick.c... CREATED
+2025-03-27 20:04:31,287 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Model_Functions_Send_Tick.h... CREATED
+2025-03-27 20:04:31,287 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Model_Functions_Send_Tick.c... CREATED
+2025-03-27 20:04:31,287 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Timer_itf.h... CREATED
+2025-03-27 20:04:31,287 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Timer_type.h... CREATED
+2025-03-27 20:04:31,287 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Timer.h... CREATED
+2025-03-27 20:04:31,287 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Timer.c... CREATED
+2025-03-27 20:04:31,287 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Timer_internal_types.h... CREATED
+2025-03-27 20:04:31,287 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Light_Light.h... CREATED
+2025-03-27 20:04:31,287 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Light_Light.c... CREATED
+2025-03-27 20:04:31,287 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Light_Light_usr.c... CREATED
+2025-03-27 20:04:31,287 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Light_itf.h... CREATED
+2025-03-27 20:04:31,287 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Light_type.h... CREATED
+2025-03-27 20:04:31,287 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Light.h... CREATED
+2025-03-27 20:04:31,287 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Light.c... CREATED
+2025-03-27 20:04:31,287 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Light_internal_types.h... CREATED
+2025-03-27 20:04:31,287 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Button_Button.h... CREATED
+2025-03-27 20:04:31,287 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Button_Button.c... CREATED
+2025-03-27 20:04:31,287 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Button_Button_usr.c... CREATED
+2025-03-27 20:04:31,287 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Button_Button_Send_On.h... CREATED
+2025-03-27 20:04:31,288 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Button_Button_Send_On.c... CREATED
+2025-03-27 20:04:31,288 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Button_Button_Send_Off.h... CREATED
+2025-03-27 20:04:31,288 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Button_Button_Send_Off.c... CREATED
+2025-03-27 20:04:31,288 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Model_Functions_Send_On.h... CREATED
+2025-03-27 20:04:31,288 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Model_Functions_Send_On.c... CREATED
+2025-03-27 20:04:31,288 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Model_Functions_Send_Off.h... CREATED
+2025-03-27 20:04:31,288 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Model_Functions_Send_Off.c... CREATED
+2025-03-27 20:04:31,288 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Button_itf.h... CREATED
+2025-03-27 20:04:31,288 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Button_type.h... CREATED
+2025-03-27 20:04:31,288 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Button.h... CREATED
+2025-03-27 20:04:31,288 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Button.c... CREATED
+2025-03-27 20:04:31,288 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Button_internal_types.h... CREATED
+2025-03-27 20:04:31,288 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Counter_OB_cnt.c... CREATED
+2025-03-27 20:04:31,288 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Counter_itf.h... CREATED
+2025-03-27 20:04:31,288 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Counter_type.h... CREATED
+2025-03-27 20:04:31,288 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Counter.h... CREATED
+2025-03-27 20:04:31,288 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Counter.c... CREATED
+2025-03-27 20:04:31,288 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Counter_internal_types.h... CREATED
+2025-03-27 20:04:31,288 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Tempo_TempoManager.h... CREATED
+2025-03-27 20:04:31,288 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Tempo_TempoManager.c... CREATED
+2025-03-27 20:04:31,288 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Tempo_TempoManager_usr.c... CREATED
+2025-03-27 20:04:31,288 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Tempo_itf.h... CREATED
+2025-03-27 20:04:31,288 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Tempo_type.h... CREATED
+2025-03-27 20:04:31,288 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Tempo.h... CREATED
+2025-03-27 20:04:31,288 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Tempo.c... CREATED
+2025-03-27 20:04:31,288 [pool-MagicDraw-thread-19:Generation Task] INFO  - Generate Tempo_internal_types.h... CREATED
+2025-03-27 20:04:31,288 [pool-MagicDraw-thread-19:Generation Task] INFO  - Extract 'Tempo_impl.c'... OK
+2025-03-27 20:04:31,289 [pool-MagicDraw-thread-19:Generation Task] INFO  - ***** End Uml To C Generator v1.0.0 *****
+2025-03-27 20:04:49,454 [pool-MagicDraw-thread-19:Generation Task] INFO  - Operation "UML to C" finished
+2025-03-27 20:04:56,294 [pool-MagicDraw-thread-19:Generation Task] DEBUG - getSrcPath for report: C:\Users\JSO24\JSO24_Flashlight_tempo
